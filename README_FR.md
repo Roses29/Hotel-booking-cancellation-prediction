@@ -1,4 +1,6 @@
+🌍 [Read in English](README.md) | 📓 [Voir PDF](./CHT_Graded_Project_Learner_Notebook.ipynb)
 
+# 🏨 Prédiction d'annulations hôtelières
 
 ## Présentation
 
